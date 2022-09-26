@@ -1,5 +1,7 @@
 # homework2
 
+Easy way to preview: https://htmlpreview.github.io/
+
 ## Goals
 You have been given an HTML file which has all of the required content to recreate the provided  screenshot using only CSS.  Do not change the body of the html file, just the head to link the CSS stylesheet.  As always, use best practices, e.g. using an (unmodified) default style sheet, only lowercase letters, syntax and accessibility validation, etc.
 

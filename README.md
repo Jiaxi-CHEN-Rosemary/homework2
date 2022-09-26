@@ -1,4 +1,4 @@
-# homework2
+# SI 539 homework2
 
 Easy way to preview: https://htmlpreview.github.io/
 
